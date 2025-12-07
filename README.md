@@ -65,9 +65,11 @@ jupyter notebook diabetes_ml_project.ipynb
 - 5-Fold Cross-Validation
 
 ## 🖼️ Visualizations
-
+## Confusion Matrices
 ![Confusion Matrices](confusion_matrices.png)
+## Feature Importance
 ![Feature Importance](feature_importance.png)
+## Heatmap
 ![Heatmap](heatmap.png)
 
 ## 📁 Project Structure
