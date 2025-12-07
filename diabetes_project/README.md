@@ -47,7 +47,7 @@ The **Pima Indians Diabetes Dataset** contains medical diagnostic measurements f
 | `Outcome` | **Target Variable** (0 = No Diabetes, 1 = Diabetes) |
 
 ### Dataset Statistics:
-- **Total Samples**: 110 records
+- **Total Samples**: 107 records
 - **Features**: 8 independent variables
 - **Target Classes**: 2 (Binary Classification)
 
@@ -91,10 +91,9 @@ diabetes_project/
 
 ### Setup Instructions
 
-1. **Clone the repository**:
+1. **Navigate to the project directory**:
 ```bash
-git clone https://github.com/annah11/diabetes-ml-prediction.git
-cd diabetes-ml-prediction/diabetes_project
+cd diabetes_project
 ```
 
 2. **Create a virtual environment** (recommended):
