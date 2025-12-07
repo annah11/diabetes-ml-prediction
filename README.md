@@ -91,7 +91,7 @@ diabetes-ml-prediction/
 
 **Hana Mesfin**  
 Student at [ASTU]  
-GitHub: [@Yannah11](https://github.com/annah11)
+GitHub: [@annah11](https://github.com/annah11)
 
 ## 📄 License
 
