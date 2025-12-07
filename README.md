@@ -89,9 +89,9 @@ diabetes-ml-prediction/
 
 ## 👤 Author
 
-**Your Name**  
-Student at [Your University]  
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**Hana Mesfin**  
+Student at [ASTU]  
+GitHub: [@Yannah11](https://github.com/annah11)
 
 ## 📄 License
 
