@@ -68,6 +68,7 @@ jupyter notebook diabetes_ml_project.ipynb
 
 ![Confusion Matrices](confusion_matrices.png)
 ![Feature Importance](feature_importance.png)
+![Heatmap](heatmap.png)
 
 ## 📁 Project Structure
 
